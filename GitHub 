@@ -1,0 +1,9 @@
+⟨ Up ug
+⟨ Install git wget 
+⟨ install python python3
+⟨ wget https://github.com/sundowndev/phoneinfoga/releases/download/v2.4.2/phoneinfoga_Linux_arm64.tar.gz
+⟨ tar xvf phoneinfoga_Linux_arm64.tar.gz
+⟨ ./phoneinfoga --help
+⟨ ./phoneinfoga scan -n <phone number>
+⟨ ./phoneinfoga scan -n "+91 000-008-8888"
+⟨ ./phoneinfoga serve
